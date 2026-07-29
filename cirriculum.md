@@ -1,4 +1,4 @@
-Месяц 1 — Foundation: Xcode, Swift и Git
+**Месяц 1 — Foundation: Xcode, Swift и Git**
 Цель
 
 Познакомить студентов с разработкой, инструментами и базовыми конструкциями Swift.
@@ -59,7 +59,7 @@ https://developer.apple.com/tutorials/develop-in-swift/create-a-project
 
 Индивидуальное небольшое приложение и GitHub-репозиторий студента.
 
-Месяц 2 — SwiftUI Fundamentals
+**Месяц 2 — SwiftUI Fundamentals**
 Цель
 
 Научить создавать многоэкранные интерфейсы и управлять состоянием.
@@ -114,7 +114,7 @@ https://developer.apple.com/tutorials/app-dev-training
 
 Многоэкранное SwiftUI-приложение с локальным состоянием.
 
-Месяц 3 — App Design и UX Research
+**Месяц 3 — App Design и UX Research**
 Цель
 
 Научить студентов начинать разработку не с кода, а с проблемы пользователя.
@@ -165,7 +165,7 @@ Apple рекомендует начинать дизайн с понимания
 
 Исследование проблемы, prototype и usability report.
 
-Месяц 4 — Data Modeling, SwiftData и Networking
+**Месяц 4 — Data Modeling, SwiftData и Networking**
 Цель
 
 Научить создавать приложения с реальными данными.
@@ -219,7 +219,7 @@ https://developer.apple.com/documentation/swift/concurrency
 
 Приложение с REST API, локальным сохранением и обработкой ошибок.
 
-Месяц 5 — Architecture, Testing и Quality
+**Месяц 5 — Architecture, Testing и Quality**
 Цель
 
 Перевести студентов от «работающего кода» к поддерживаемому приложению.
@@ -273,7 +273,7 @@ Apple рекомендует сочетать большое количеств�
 
 Приложение с архитектурой, unit-тестами, UI-тестом и code review.
 
-Месяц 6 — Apple Technologies и AI
+**Месяц 6 — Apple Technologies и AI**
 Цель
 
 Познакомить студентов с современными возможностями платформ Apple.
@@ -328,7 +328,7 @@ https://developer.apple.com/documentation/appintents
 
 Challenge-приложение с минимум одной расширенной технологией Apple.
 
-Месяц 7 — Product, Business и Distribution
+**Месяц 7 — Product, Business и Distribution**
 Цель
 
 Научить превращать приложение в продукт.
@@ -383,7 +383,7 @@ Apple требует учитывать безопасность, произво
 
 Product brief, бизнес-модель и App Store submission draft.
 
-Месяц 8 — Capstone Project: Discovery and Development
+**Месяц 8 — Capstone Project: Discovery and Development**
 Цель
 
 Начать полноценный выпускной проект для реальной проблемы.
@@ -424,7 +424,7 @@ usability validation.
 
 Работающий alpha build и отчёт пользовательского тестирования.
 
-Месяц 9 — Capstone Launch, Career и Demo Day
+**Месяц 9 — Capstone Launch, Career и Demo Day**
 Цель
 
 Довести приложение до демонстрационной или публикационной готовности.
