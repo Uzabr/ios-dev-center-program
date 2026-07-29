@@ -1,0 +1,247 @@
+Apple публично описывает Academy как программу, где студенты несколько раз проходят полный цикл разработки приложения: находят проблемы в сообществе, проектируют решения, пишут код, работают в командах и развивают навыки презентации. Поэтому программа не должна быть только курсом синтаксиса Swift. ([Apple Developer][1])
+
+## Почему стоит предложить именно Develop in Swift
+
+Потому что это уже не отдельный короткий tutorial. Apple собрала там последовательный образовательный путь:
+
+1. Getting Started
+2. App Design
+3. SwiftUI
+4. Data Modeling
+5. App Development
+6. Machine Learning and AI
+7. Spatial Computing
+8. App Distribution
+
+Внутри SwiftUI отдельно рассматриваются Xcode, views, structures, properties, layout, styling, state, buttons, lists и text fields. ([Apple Developer][2])
+
+---
+
+# Обязательные ссылки для программы
+
+## 1. Главный учебный маршрут
+
+**Develop in Swift Tutorials**
+[Открыть полный курс](https://developer.apple.com/tutorials/develop-in-swift/)
+
+Это главный источник. Он содержит все основные направления программы. ([Apple Developer][2])
+
+**Apple Developer Learn**
+[Открыть каталог обучения](https://developer.apple.com/learn/)
+
+**Swift — Get Started**
+[Открыть Swift Get Started](https://developer.apple.com/swift/get-started/)
+
+**The Swift Programming Language**
+[Открыть официальную книгу Swift](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
+
+---
+
+# SwiftUI: последовательность для начинающих
+
+Урок `Customize views with properties` находится внутри главы **Views, structures, and properties**. Он обучает создавать собственный SwiftUI-компонент через `struct` и передавать в него значения через properties. В уроке строится многоразовый элемент прогноза погоды. ([Apple Developer][3])
+
+## Начало работы
+
+**Welcome to SwiftUI**
+[Открыть](https://developer.apple.com/tutorials/develop-in-swift/welcome-to-swiftui)
+
+**Hello, SwiftUI**
+[Открыть](https://developer.apple.com/tutorials/develop-in-swift/hello-swiftui)
+
+**Customize views with properties**
+[Открыть](https://developer.apple.com/tutorials/develop-in-swift/customize-views-with-properties)
+
+На этом этапе студенты изучают:
+
+* `View`;
+* `struct`;
+* `body`;
+* properties;
+* custom views;
+* повторное использование компонентов;
+* передачу разных значений в один шаблон View.
+
+## Layout и внешний вид
+
+**Design an interface**
+[Открыть](https://developer.apple.com/tutorials/develop-in-swift/design-an-interface)
+
+**SwiftUI Documentation**
+[Открыть](https://developer.apple.com/documentation/swiftui)
+
+**SF Symbols**
+[Открыть](https://developer.apple.com/sf-symbols/)
+
+## State и взаимодействие
+
+**Update the UI with state**
+[Открыть](https://developer.apple.com/tutorials/develop-in-swift/update-the-ui-with-state)
+
+**Managing user interface state**
+[Открыть](https://developer.apple.com/documentation/swiftui/managing-user-interface-state)
+
+## Динамические данные
+
+**Create dynamic content**
+[Открыть](https://developer.apple.com/tutorials/develop-in-swift/create-dynamic-content)
+
+**List**
+[Открыть](https://developer.apple.com/documentation/swiftui/list)
+
+**TextField**
+[Открыть](https://developer.apple.com/documentation/swiftui/textfield)
+
+---
+
+# App Design и UX
+
+**Welcome to App Design**
+[Открыть](https://developer.apple.com/tutorials/develop-in-swift/welcome-to-app-design)
+
+В этом разделе Apple предлагает начать с потребностей людей, определить функции приложения, создать интерактивный прототип и проверить его на пользователях. ([Apple Developer][4])
+
+**Explore the App Design Cycle**
+[Открыть](https://developer.apple.com/tutorials/develop-in-swift/explore-the-app-design-cycle)
+
+**Human Interface Guidelines**
+[Открыть](https://developer.apple.com/design/human-interface-guidelines/)
+
+HIG охватывает foundations, patterns, components, inputs и технологии Apple. ([Apple Developer][5])
+
+**Design Principles**
+[Открыть](https://developer.apple.com/design/human-interface-guidelines/design-principles)
+
+Актуальные принципы Apple включают purpose, agency, responsibility, familiarity, flexibility, simplicity, craft и delight. ([Apple Developer][6])
+
+**Accessibility**
+[Открыть](https://developer.apple.com/design/human-interface-guidelines/accessibility)
+
+Apple рекомендует проектировать доступность с самого начала и проверять приложение с Accessibility Inspector. ([Apple Developer][7])
+
+**Inclusion**
+[Открыть](https://developer.apple.com/design/human-interface-guidelines/inclusion)
+
+---
+
+# Data Modeling и SwiftData
+
+**Welcome to Data Modeling**
+[Открыть](https://developer.apple.com/tutorials/develop-in-swift/welcome-to-data-modeling)
+
+Раздел включает собственные Swift-модели, Swift Testing, SwiftData, previews и передачу сложных моделей между несколькими представлениями. ([Apple Developer][8])
+
+**Model Data with Custom Types**
+[Открыть](https://developer.apple.com/tutorials/develop-in-swift/model-data-with-custom-types)
+
+**Save Data**
+[Открыть](https://developer.apple.com/tutorials/develop-in-swift/save-data)
+
+**Navigate Sample Data**
+[Открыть](https://developer.apple.com/tutorials/develop-in-swift/navigate-sample-data)
+
+**SwiftData Documentation**
+[Открыть](https://developer.apple.com/documentation/swiftdata)
+
+---
+
+# Создание полноценного приложения
+
+**Welcome to App Development**
+[Открыть](https://developer.apple.com/tutorials/develop-in-swift/welcome-to-app-development)
+
+Здесь студенты создают полноценное приложение: связывают data model со SwiftUI, реализуют навигацию, SwiftData, PhotosUI, accessibility, debugging и несколько связанных функций продукта. ([Apple Developer][9])
+
+**App Dev Training**
+[Открыть](https://developer.apple.com/tutorials/app-dev-training)
+
+**Dissecting an App’s Architecture**
+[Открыть](https://developer.apple.com/tutorials/app-dev-training/dissecting-an-apps-architecture)
+
+**Managing Data Flow Between Views**
+[Открыть](https://developer.apple.com/tutorials/app-dev-training/managing-data-flow-between-views)
+
+---
+
+# Networking и concurrency
+
+**URLSession**
+[Открыть](https://developer.apple.com/documentation/foundation/urlsession)
+
+**Codable**
+[Открыть](https://developer.apple.com/documentation/swift/codable)
+
+**Swift Concurrency**
+[Открыть](https://developer.apple.com/documentation/swift/concurrency)
+
+---
+
+# Testing и качество
+
+**Swift Testing**
+[Открыть](https://developer.apple.com/documentation/testing)
+
+**Testing in Xcode**
+[Открыть](https://developer.apple.com/documentation/xcode/testing)
+
+**XCTest**
+[Открыть](https://developer.apple.com/documentation/xctest)
+
+**Debugging**
+[Открыть](https://developer.apple.com/documentation/xcode/debugging)
+
+**Instruments**
+[Открыть](https://developer.apple.com/documentation/xcode/instruments)
+
+---
+
+# AI и Machine Learning
+
+**Welcome to Machine Learning and AI**
+[Открыть](https://developer.apple.com/tutorials/develop-in-swift/welcome-to-machine-learning-and-ai)
+
+Раздел включает Natural Language, Vision, Create ML, Core ML, Image Playground и Foundation Models. Для Foundation Models Apple указывает необходимость macOS Tahoe 26 и Xcode 26. ([Apple Developer][10])
+
+**Core ML**
+[Открыть](https://developer.apple.com/documentation/coreml)
+
+**Vision**
+[Открыть](https://developer.apple.com/documentation/vision)
+
+**Natural Language**
+[Открыть](https://developer.apple.com/documentation/naturallanguage)
+
+**Create ML**
+[Открыть](https://developer.apple.com/documentation/createml)
+
+**Foundation Models**
+[Открыть](https://developer.apple.com/documentation/foundationmodels)
+
+---
+
+# Публикация приложения
+
+**Welcome to App Distribution**
+[Открыть](https://developer.apple.com/tutorials/develop-in-swift/welcome-to-app-distribution)
+
+**TestFlight**
+[Открыть](https://developer.apple.com/testflight/)
+
+**App Store Connect Help**
+[Открыть](https://developer.apple.com/help/app-store-connect/)
+
+**App Review Guidelines**
+[Открыть](https://developer.apple.com/app-store/review/guidelines/)
+
+---
+
+[1]: https://developer.apple.com/academies/?utm_source=chatgpt.com "Apple Developer Academies - Apple Developer"
+[2]: https://developer.apple.com/tutorials/develop-in-swift?utm_source=chatgpt.com "Develop in Swift Tutorials | Apple Developer Documentation"
+[3]: https://developer.apple.com/tutorials/develop-in-swift/customize-views-with-properties/?utm_source=chatgpt.com "Customize views with properties — Develop in Swift Tutorials | Apple Developer Documentation"
+[4]: https://developer.apple.com/tutorials/develop-in-swift/welcome-to-app-design?utm_source=chatgpt.com "Welcome to app design — Develop in Swift Tutorials | Apple Developer Documentation"
+[5]: https://developer.apple.com/design/human-interface-guidelines?lang=en&utm_source=chatgpt.com "Human Interface Guidelines | Apple Developer Documentation"
+[6]: https://developer.apple.com/design/human-interface-guidelines/design-principles?utm_source=chatgpt.com "Design principles | Apple Developer Documentation"
+[7]: https://developer.apple.com/design/human-interface-guidelines/accessibility/?utm_source=chatgpt.com "Accessibility | Apple Developer Documentation"
+[8]: https://developer.apple.com/tutorials/develop-in-swift/welcome-to-data-modeling?utm_source=chatgpt.com "Welcome to data modeling — Develop in Swift Tutorials | Apple Developer Documentation"
+[9]: https://developer.apple.com/tutorials/develop-in-swift/welcome-to-app-development?utm_source=chatgpt.com "Welcome to app development — Develop in Swift Tutorials | Apple Developer Documentation"
+[10]: https://developer.apple.com/tutorials/develop-in-swift/welcome-to-machine-learning-and-ai?utm_source=chatgpt.com "Welcome to machine learning and AI — Develop in Swift Tutorials | Apple Developer Documentation"
